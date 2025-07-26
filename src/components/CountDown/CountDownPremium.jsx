@@ -41,7 +41,7 @@ const Countdown = () => {
       sx={{
         minHeight: "30vh",
         py: 6,
-        backgroundColor: "#D7A21B",
+        backgroundColor: "#e8b4be",
         display: "flex",
         flexDirection: "column",
         justifyContent: "center",
