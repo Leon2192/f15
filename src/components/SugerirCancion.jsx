@@ -15,7 +15,7 @@ const SuggestSong = () => {
         minHeight: "40vh",
         py: 8,
         px: 2,
-        backgroundColor: "#fcf0ec",
+        backgroundColor: "#faafe3",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
