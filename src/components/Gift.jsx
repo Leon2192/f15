@@ -46,7 +46,7 @@ const Gift = () => {
           <Typography
             variant="h5"
             sx={{
-              fontFamily: "'Catchy Mager', cursive",
+              fontFamily: "'zhandelson-three', cursive",
               fontWeight: "bold",
               fontSize: { xs: "1.5rem", md: "2rem" },
               maxWidth: 600,
@@ -64,7 +64,7 @@ const Gift = () => {
   sx={{
     borderRadius: 999,
     px: 4,
-    fontFamily: "'Catchy Mager', cursive",
+    fontFamily: "'zhandelson-three', cursive",
     backgroundColor: "#c27382",
     color: "#fff",
     boxShadow: "none",

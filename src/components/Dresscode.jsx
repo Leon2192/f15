@@ -39,7 +39,7 @@ const Dresscode = () => {
           <Typography
             variant="h4"
             sx={{
-                fontFamily: "'Catchy Mager', cursive",
+                fontFamily: "'zhandelson-three', cursive",
           fontWeight: "bold",
               fontSize: { xs: "1.8rem", md: "2.2rem" },
               mb: 1,
@@ -54,7 +54,7 @@ const Dresscode = () => {
             sx={{
               fontSize: { xs: "1.2rem", md: "1.4rem" },
               color: "#fff",
-                fontFamily: "'Catchy Mager', cursive",
+                fontFamily: "'zhandelson-three', cursive",
             }}
           >
             Vestimenta formal, elegante

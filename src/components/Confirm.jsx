@@ -20,7 +20,7 @@ const Confirm = () => {
 <CheckIcon
   sx={{
     fontSize: { xs: 60, md: 80 },
-    color: "#43A047",
+    color: "#c27382",
     mb: 2,
   }}
 />
@@ -29,11 +29,11 @@ const Confirm = () => {
       <Typography
         variant="h4"
         sx={{
-           fontFamily: "'Catchy Mager', cursive",
+           fontFamily: "'zhandelson-three', cursive",
           fontWeight: "bold",
           fontSize: { xs: "2rem", md: "2.5rem" },
           mb: 2,
-          color: "#fff",
+          
         }}
       >
         Confirmación de asistencia
@@ -43,7 +43,7 @@ const Confirm = () => {
         variant="body1"
         sx={{
           fontSize: { xs: "1.1rem", md: "1.1rem" },
-            fontFamily: "'Catchy Mager', cursive",
+            fontFamily: "'zhandelson-three', cursive",
           maxWidth: 500,
           mb: 4,
           color: "#222",
@@ -62,7 +62,7 @@ const Confirm = () => {
   sx={{
     borderRadius: 999,
     px: 4,
-    fontFamily: "'Catchy Mager', cursive",
+    fontFamily: "'zhandelson-three', cursive",
     backgroundColor: "#c27382",
     color: "#fff",
     boxShadow: "none",
