@@ -65,14 +65,14 @@ const Gift = () => {
     borderRadius: 999,
     px: 4,
     fontFamily: "'Catchy Mager', cursive",
-    backgroundColor: "#9a64ea",
+    backgroundColor: "#c27382",
     color: "#fff",
     boxShadow: "none",
     transition: "all 0.3s ease",
     "&:hover": {
       backgroundColor: "#fff",
-      border: "2px solid #9a64ea",
-      color: "#9a64ea",
+      border: "2px solid #c27382",
+      color: "#c27382",
     },
   }}
 >

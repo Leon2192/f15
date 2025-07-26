@@ -86,12 +86,12 @@ const SuggestSong = () => {
             sx={{
               borderRadius: 999,
               px: 4,
-              backgroundColor: "#d1c4e9",
-              color: "#4a148c",
+              backgroundColor: "#c27382",
+              color: "#fff",
               boxShadow: "none",
               "&:hover": {
                 backgroundColor: "#fff",
-                border: "2px solid #d1c4e9",
+                border: "2px solid #c27382",
                 color: "#4a148c",
               },
             }}

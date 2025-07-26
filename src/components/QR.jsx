@@ -90,8 +90,8 @@ const Qr = () => {
    <Box
   component="button"
   sx={{
-    border: "2px solid #9a64ea",
-    color: "#9a64ea",
+    border: "2px solid #c27382",
+    color: "#c27382",
     px: 3,
     py: 1,
     fontFamily: "'Catchy Mager', cursive",

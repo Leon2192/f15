@@ -89,14 +89,14 @@ const InfoEvent = () => {
     borderRadius: 999,
     fontFamily: "'Catchy Mager', cursive",
     px: 4,
-    backgroundColor: "#9a64ea",  // color principal
+    backgroundColor: "#c27382",  // color principal
     color: "#fff",               // texto en blanco para contraste
     boxShadow: "none",
     transition: "all 0.3s ease",
     "&:hover": {
       backgroundColor: "#fff",         // fondo blanco al pasar
-      border: "2px solid #9a64ea",     // borde con el mismo morado
-      color: "#9a64ea",                // texto morado
+      border: "2px solid #c27382",     // borde con el mismo morado
+      color: "#c27382",                // texto morado
     },
   }}
 >
